@@ -18,7 +18,7 @@
     <p>📫 How to reach me: <strong>wapunsisiyemani18@gmail.com</strong></p>
     <p>⚡ Fun fact: <strong>// Why don't programmers like nature? It has too many bugs.</strong></p>
   </div>
-  <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
+  <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
 </div>
 
 <!-- Connect with me -->
@@ -33,8 +33,8 @@
 </p>
 
 <!-- Languages and Tools -->
-<h3 align="center">Languages and Tools:</h3>
-<p align="center">
+<h3 align="left">Languages and Tools:</h3>
+<p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
     <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
   </a>
@@ -74,13 +74,13 @@
 </p>
 
 <!-- GitHub Stats -->
-<h3 align="center">GitHub Stats:</h3>
-<p align="center">
+<h3 align="left">GitHub Stats:</h3>
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wapunsisiyemaniperera&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=wapunsisiyemaniperera&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapunsisiyemaniperera&" alt="GitHub Streak" />
 </p>
