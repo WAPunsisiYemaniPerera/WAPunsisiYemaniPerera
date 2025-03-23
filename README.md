@@ -84,33 +84,3 @@
 <p align="left">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapunsisiyemaniperera&" alt="GitHub Streak" />
 </p>
-
-<!-- Additional Styling and Animations -->
-<style>
-  body {
-    background: linear-gradient(135deg, #1e3c72 0%, #2a5298 100%);
-    color: white;
-    font-family: 'Arial', sans-serif;
-  }
-  h1, h2, h3 {
-    color: #ff7e5f;
-    animation: fadeIn 2s ease-in-out;
-  }
-  @keyframes fadeIn {
-    from { opacity: 0; }
-    to { opacity: 1; }
-  }
-  img {
-    transition: transform 0.3s ease-in-out;
-  }
-  img:hover {
-    transform: scale(1.1);
-  }
-  a {
-    color: #ff7e5f;
-    text-decoration: none;
-  }
-  a:hover {
-    text-decoration: underline;
-  }
-</style>
