@@ -1,86 +1,100 @@
-<h1 align="center">Hi 👋, I'm Yemani Perera</h1>
-<h2 align="center">Full Stack Developer</h2>
+<div align="center">
+
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yemani+Perera;Full+Stack+Developer;Tech+Enthusiast;Open-Source+Contributor" alt="Typing Animation" />
 
 <!-- Profile Views and Trophies -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=wapunsisiyemaniperera&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WAPunsisiYemaniPerera&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=wapunsisiyemaniperera" alt="GitHub Profile Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=WAPunsisiYemaniPerera&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
   </a>
 </p>
 
-<!-- Learning, Contact, Fun Fact -->
-<div style="display: flex; align-items: center; justify-content: space-between; margin: 20px 0;">
-  <div>
-    <p>🌱 I’m currently learning <strong>Java, JavaScript, PHP, MySQL</strong></p>
-    <p>📫 How to reach me: <strong>wapunsisiyemani18@gmail.com</strong></p>
-    <p>⚡ Fun fact: <strong>// Why don't programmers like nature? It has too many bugs.</strong></p>
-  </div>
-  <img align="right" alt="Coding" width="500" src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif">
+<!-- Animated Divider -->
+<img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
+
 </div>
 
-<!-- Connect with me -->
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-  <a href="https://fb.com/yemani.perera" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
-  </a>
-  <a href="https://instagram.com/yy_ee_mm_aa" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-  </a>
-</p>
+<!-- About Section -->
+<div align="center">
+  
+🔭 Currently pursuing **BSc (Hons) in Information Technology**  
+🌱 Learning **React Native, Java, and Full Stack Development**  
+💬 Ask me about **Web Development or Database Systems**  
+⚡ Fun fact: **I debug my code while sleeping!**  
 
-<!-- Languages and Tools -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
-    <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="Blender" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" />
-  </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40" />
-  </a>
-  <a href="https://www.framer.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="Framer" width="40" height="40" />
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" />
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40" />
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="40" height="40" />
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" />
-  </a>
-  <a href="https://www.php.net" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" height="40" />
-  </a>
-</p>
+</div>
 
-<!-- GitHub Stats -->
-<h3 align="left">GitHub Stats:</h3>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wapunsisiyemaniperera&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=wapunsisiyemaniperera&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wapunsisiyemaniperera&" alt="GitHub Streak" />
-</p>
+<!-- Tech Stack Section -->
+<h2 align="center" style="color: #20C20E">🛠 Tech Stack</h2>
+
+<div align="center">
+
+### Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+
+### Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### DevOps & Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+</div>
+
+<!-- GitHub Stats Section -->
+<h2 align="center" style="color: #20C20E">📊 GitHub Stats</h2>
+
+<div align="center">
+
+<!-- Custom GitHub Stats Cards -->
+<a href="https://github.com/WAPunsisiYemaniPerera">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WAPunsisiYemaniPerera&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=10&border_color=20C20E"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAPunsisiYemaniPerera&layout=compact&langs_count=8&theme=nightowl&border_radius=10&border_color=20C20E"/>
+</a>
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=WAPunsisiYemaniPerera&theme=nightowl&border_radius=10&border=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E)](https://git.io/streak-stats)
+
+<!-- Activity Graph -->
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WAPunsisiYemaniPerera&theme=react-dark&bg_color=0D1117&color=20C20E&line=20C20E&point=20C20E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+<!-- Connect Section -->
+<h2 align="center" style="color: #20C20E">🌐 Connect With Me</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yemani-perera-09b4b8211)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punsisiyemani18@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yemaa_perera)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@punsisiyemani18)
+[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/punsisiyemz)
+
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWAPunsisiYemaniPerera&label=Visitors&countColor=%2320C20E&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FWAPunsisiYemaniPerera)
+
+</div>
