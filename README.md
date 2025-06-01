@@ -27,36 +27,58 @@
 </div>
 
 <!-- Tech Stack Section -->
-<h2 align="center" style="color: #20C20E">🛠 Tech Stack</h2>
+<h2 align="center" style="color: #20C20E">✨ Tech Stack ✨</h2>
 
 <div align="center">
 
 ### Programming Languages
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="50"/>
+</div>
 
 ### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind CSS" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="50"/>
+</div>
 
 ### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express.js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" height="50"/>
+  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring Boot" height="50"/>
+</div>
 
-### Databases
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+### Databases & Cloud
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" height="50"/>
+  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="50"/>
+</div>
 
 ### DevOps & Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="50"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VS Code" height="50"/>
+</div>
+
+### Mobile Development
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" title="Android" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React Native" title="React Native" height="50"/>
+</div>
 
 </div>
 
