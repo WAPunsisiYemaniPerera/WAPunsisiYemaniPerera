@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Header -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yemani+Perera;Full+Stack+Developer;Tech+Enthusiast;Innovator" alt="Typing Animation" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yemani+Perera;Full+Stack+Developer;Tech+Enthusiast;Innovator" alt="Typing Animation" />
 
 <!-- Profile Views and Trophies -->
 <p align="center">
