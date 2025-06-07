@@ -11,16 +11,18 @@
   </a>
   
   <!-- Sparkle Divider -->
-  <div align="center">
+  
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=✨+Achievements+and+Trophies+✨" alt="Achievements Header" />
   <br>
-  </div>
+  
 
   <!-- Glowing Trophies -->
+  <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=WAPunsisiYemaniPerera&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Stars,Commit,Repositories,PullRequest,Followers,Issues" alt="GitHub Trophies" />
   </a>
+  </div>
   
   <!-- Animated Stats -->
   <br>
