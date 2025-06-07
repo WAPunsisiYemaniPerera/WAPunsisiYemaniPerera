@@ -11,9 +11,11 @@
   </a>
   
   <!-- Sparkle Divider -->
+  <div align="center">
   <br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=✨+Achievements+and+Trophies+✨" alt="Achievements Header" />
   <br>
+  </div>
 
   <!-- Glowing Trophies -->
   <a href="https://github.com/ryo-ma/github-profile-trophy">
