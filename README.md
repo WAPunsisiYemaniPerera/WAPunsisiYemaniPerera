@@ -101,17 +101,44 @@
 
 </div>
 
-<!-- Connect Section -->
-<h2 align="center" style="color: #20C20E">🌐 Connect With Me</h2>
+<!-- 🌐 Connect With Me -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Let's Connect & Collaborate!
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/yemani-perera-09b4b8211" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:punsisiyemani18@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/yemaa_perera" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@punsisiyemani18" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="40" height="40"/>
+  </a>
+  
+  <!-- Buy Me a Coffee -->
+  <a href="https://buymeacoffee.com/punsisiyemz" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/cafe.png" alt="Buy Me A Coffee" width="40" height="40"/>
+  </a>
+</div>
+
+<p align="center">
+  <em>Feel free to reach out for collaborations or just a friendly hello! 👋</em>
+</p>
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yemani-perera-09b4b8211)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:punsisiyemani18@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/yemaa_perera)
-[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@punsisiyemani18)
-[![BuyMeACoffee](https://img.shields.io/badge/Buy_Me_A_Coffee-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/punsisiyemz)
-
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=20C20E&style=flat" alt="profile views" />
 </div>
 
 <!-- Footer -->
