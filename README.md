@@ -82,24 +82,49 @@
 
 </div>
 
-<!-- GitHub Stats Section -->
-<h2 align="center" style="color: #20C20E">📊 GitHub Stats</h2>
 
+
+<!-- 📊 GitHub Stats -->
+<h2 align="center" style="color: #20C20E; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40px"> Dynamic GitHub Insights
+</h2>
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+
+<!-- Animated Stats Row -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Stats Card with hover effect -->
+  <a href="https://github.com/WAPunsisiYemaniPerera" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WAPunsisiYemaniPerera&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=10&border_color=20C20E&hide_border=true&bg_color=00000000"/>
+  </a>
+  
+  <!-- Top Languages with hover effect -->
+  <a href="https://github.com/WAPunsisiYemaniPerera" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAPunsisiYemaniPerera&layout=compact&langs_count=8&theme=nightowl&border_radius=10&border_color=20C20E&hide_border=true&bg_color=00000000"/>
+  </a>
+</div>
+
+<!-- Streak Stats with animation -->
 <div align="center">
+  <a href="https://github.com/WAPunsisiYemaniPerera">
+    <img src="https://streak-stats.demolab.com?user=WAPunsisiYemaniPerera&theme=nightowl&border_radius=10&border=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&dates=20C20E&animation=fadeIn" alt="GitHub Streak"/>
+  </a>
+</div>
 
-<!-- Custom GitHub Stats Cards -->
-<a href="https://github.com/WAPunsisiYemaniPerera">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WAPunsisiYemaniPerera&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=10&border_color=20C20E"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAPunsisiYemaniPerera&layout=compact&langs_count=8&theme=nightowl&border_radius=10&border_color=20C20E"/>
-</a>
+<!-- Animated Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WAPunsisiYemaniPerera&theme=react-dark&bg_color=0D1117&color=20C20E&line=20C20E&point=20C20E&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&animation=true" alt="Activity Graph"/>
+</div>
 
-<!-- GitHub Streak Stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=WAPunsisiYemaniPerera&theme=nightowl&border_radius=10&border=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E)](https://git.io/streak-stats)
-
-<!-- Activity Graph -->
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=WAPunsisiYemaniPerera&theme=react-dark&bg_color=0D1117&color=20C20E&line=20C20E&point=20C20E&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- View Counter with pulse animation -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WAPunsisiYemaniPerera&label=Profile+Views&color=20C20E&style=flat&animation=pulse" alt="profile views"/>
+</div>
 
 </div>
+
+
+
 
 <!-- 🌐 Connect With Me -->
 <h2 align="center">
