@@ -3,30 +3,12 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=20C20E&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yemani+Perera;Full+Stack+Developer;Tech+Enthusiast;Innovator" alt="Typing Animation" />
 
-<!-- 🌟 Profile Views and Trophies - Enhanced Version -->
+<!-- Profile Views and Trophies -->
 <p align="center">
-  <!-- Animated Profile Views Counter -->
-  <a href="https://github.com/WAPunsisiYemaniPerera">
-    <img src="https://komarev.com/ghpvc/?username=WAPunsisiYemaniPerera&label=👁️%20Profile%20Views%20%F0%9F%8C%88&color=8A2BE2&style=for-the-badge&labelColor=000000" alt="Profile Views" />
-  </a>
-  
-  <!-- Sparkle Divider -->
-  
-  <br>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=8A2BE2&center=true&vCenter=true&width=435&lines=✨+Achievements+and+Trophies+✨" alt="Achievements Header" />
-  <br>
-  
-
-  <!-- Glowing Trophies -->
-  <div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WAPunsisiYemaniPerera&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WAPunsisiYemaniPerera&theme=onedark&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C&title=Stars,Commit,Repositories,PullRequest,Followers,Issues" alt="GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=WAPunsisiYemaniPerera&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
   </a>
-  </div>
-  
-  <!-- Animated Stats -->
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=WAPunsisiYemaniPerera&show_icons=true&theme=radical&count_private=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <!-- Animated Divider -->
