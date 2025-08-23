@@ -52,8 +52,6 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="50"/>
   <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express.js" height="50"/>
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel" title="Laravel" height="50"/>
-  <img src="https://skillicons.dev/icons?i=spring" alt="Spring" title="Spring Boot" height="50"/>
 </div>
 
 ### Databases & Cloud
@@ -61,14 +59,11 @@
   <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="50"/>
   <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="50"/>
   <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" height="50"/>
-  <img src="https://skillicons.dev/icons?i=aws" alt="AWS" title="AWS" height="50"/>
 </div>
 
 ### DevOps & Tools
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/>
-  <img src="https://skillicons.dev/icons?i=docker" alt="Docker" title="Docker" height="50"/>
-  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes" title="Kubernetes" height="50"/>
   <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="50"/>
   <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VS Code" height="50"/>
 </div>
@@ -77,7 +72,6 @@
 <div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
   <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" title="Android" height="50"/>
   <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="50"/>
-  <img src="https://skillicons.dev/icons?i=react" alt="React Native" title="React Native" height="50"/>
 </div>
 
 </div>
