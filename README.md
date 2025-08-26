@@ -3,13 +3,6 @@
 <!-- Animated Header -->
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yemani+Perera;Full+Stack+Developer;Tech+Enthusiast;Innovator" alt="Typing Animation" />
 
-<!-- Profile Views and Trophies -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WAPunsisiYemaniPerera&label=Profile+Views&color=blueviolet&style=flat-square" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=WAPunsisiYemaniPerera&margin-w=15&margin-h=15&no-bg=true&no-frame=true&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="GitHub Trophies" />
-  </a>
-</p>
 
 <!-- Animated Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
