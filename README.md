@@ -1,196 +1,161 @@
 <div align="center">
 
-<!-- Animated Header with your Roles -->
+<!-- Animated Header -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=500&color=A020F0&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Yemani+Perera;Full+Stack+Developer;Tech+Enthusiast;Innovator" alt="Typing Animation" />
 
-<img src="https://www.google.com/search?q=https://readme-typing-svg.demolab.com%3Ffont%3DFira%2BCode%26size%3D28%26duration%3D3500%26pause%3D1000%26color%3D682AE9%26center%3Dtrue%26vCenter%3Dtrue%26width%3D800%26lines%3DHi%2Bthere!%2B%25F0%259F%2591%258B%2BI%27m%2BYemani%2BPerera%3BAI%252FML%2BEnthusiast%2B%2526%2BResearcher%3BFull%2BStack%2BDeveloper%2B(MERN)%3BAndroid%2BApp%2BDeveloper" alt="Typing Animation" />
 
-<!-- Banner Line -->
-
+<!-- Animated Divider -->
 <img src="https://github.com/AnderMendoza/AnderMendoza/raw/main/assets/line-neon.gif" width="100%">
 
-<!-- Bio based on your CV -->
-
-<p align="center">
-🎓 Final-year <b>B.Sc. (Hons) in IT</b> undergraduate at Horizon Campus.
-
-
-
-
-🚀 Passionate about leveraging <b>Data Science & AI</b> to build intelligent, real-world solutions.
-
-
-
-
-💡 Exploring the intersection of <b>Machine Learning</b> and <b>Full-Stack Engineering</b>.
-</p>
-
-<!-- Research Highlight -->
-
-<p align="center">
-🏆 <b>Best Presenter Award</b> - Horizon Interdisciplinary Research Symposium 2025
-
-
-
-
-<i>(Research: Data-Driven Management System for Supermarkets)</i>
-</p>
-
-<div align="center">
-<a href="mailto:punsisiyemani18@gmail.com">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Email-punsisiyemani18%2540gmail.com-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite"/>
-</a>
-<a href="https://linkedin.com/in/yemani-perera-09b4b8211">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LinkedIn-Yemani%2520Perera-0077B5%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite"/>
-</a>
-<a href="https://medium.com/@punsisiyemani18">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Medium-Blog-12100E%3Fstyle%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite"/>
-</a>
 </div>
+
+<!-- About Section -->
+<div align="center">
+  
+🔭 Currently pursuing **BSc (Hons) in Information Technology**  
+🌱 Learning **React Native, Java, and Full Stack Development**  
+💬 Ask me about **Web Development or Database Systems**  
+⚡ Fun fact: **I debug my code while sleeping!**  
 
 </div>
 
 <!-- Tech Stack Section -->
-
-<h2 align="center">🛠️ Technologies & Tools</h2>
-
-<div align="center">
-
-<!-- Row 1: Languages & AI -->
-
-<h3 align="center">🧠 AI, ML & Languages</h3>
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dpython,java,c,js" height="45"/>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dtensorflow,pytorch,sklearn,pandas,matplotlib" height="45"/>
-</div>
-
-<!-- Row 2: Full Stack -->
-
-<h3 align="center">💻 Full Stack & Mobile</h3>
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dreact,nodejs,express,mongodb,mysql,firebase" height="45"/>
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dhtml,css,tailwind,androidstudio,flutter" height="45"/>
-</div>
-
-<!-- Row 3: Tools -->
-
-<h3 align="center">⚙️ Tools & Platforms</h3>
-<div style="display: flex; justify-content: center; gap: 10px; flex-wrap: wrap;">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Dgit,github,vscode,figma,postman,anaconda" height="45"/>
-</div>
-
-</div>
-
-<!-- Featured Projects Section -->
-
-<h2 align="center">🚀 Featured Projects</h2>
+<h2 align="center" style="color: #20C20E">✨ Tech Stack ✨</h2>
 
 <div align="center">
-<table border="0">
-<tr>
-<td width="50%" align="center">
-<b>🩺 AI Skin Disease Classifier</b>
 
-
-
-
-
-
-A Deep Learning model classifying 8 skin diseases with <b>94% accuracy</b> using Transfer Learning (VGG16).
-
-
-
-
-
-
-
-<code>TensorFlow</code> <code>Keras</code> <code>Python</code>
-</td>
-<td width="50%" align="center">
-<b>💄 Crystal Beauty Clear (E-Commerce)</b>
-
-
-
-
-
-
-A full-stack MERN application with secure authentication, product management, and cart functionality.
-
-
-
-
-
-
-
-<code>React</code> <code>Node.js</code> <code>MongoDB</code> <code>Tailwind</code>
-</td>
-</tr>
-<tr>
-<td width="50%" align="center">
-<b>🏥 Maternal Healthcare Platform (FYP)</b>
-
-
-
-
-
-
-An AI-driven digital platform integrating <b>Infant Cry Analysis</b> and a mental health chatbot.
-
-
-
-
-
-
-
-<code>MERN Stack</code> <code>Python</code> <code>Flutter</code>
-</td>
-<td width="50%" align="center">
-<b>🎒 BackPackerLK (Travel App)</b>
-
-
-
-
-
-
-A native Android app for travelers with dual-profile management and real-time data syncing.
-
-
-
-
-
-
-
-<code>Android (Java)</code> <code>Firebase</code> <code>Material UI</code>
-</td>
-</tr>
-</table>
+### Programming Languages
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=java" alt="Java" title="Java" height="50"/>
+  <img src="https://skillicons.dev/icons?i=js" alt="JavaScript" title="JavaScript" height="50"/>
+  <img src="https://skillicons.dev/icons?i=php" alt="PHP" title="PHP" height="50"/>
+  <img src="https://skillicons.dev/icons?i=python" alt="Python" title="Python" height="50"/>
 </div>
 
-<!-- GitHub Stats -->
-
-<h2 align="center">📊 GitHub Analytics</h2>
-
-<div align="center">
-<a href="https://github.com/WAPunsisiYemaniPerera">
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3DWAPunsisiYemaniPerera%26show_icons%3Dtrue%26theme%3Dradical%26include_all_commits%3Dtrue%26count_private%3Dtrue%26hide_border%3Dtrue"/>
-<img height="160em" src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3DWAPunsisiYemaniPerera%26layout%3Dcompact%26langs_count%3D8%26theme%3Dradical%26hide_border%3Dtrue"/>
-</a>
+### Frontend Development
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML5" title="HTML5" height="50"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS3" title="CSS3" height="50"/>
+  <img src="https://skillicons.dev/icons?i=react" alt="React" title="React" height="50"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" alt="Tailwind" title="Tailwind CSS" height="50"/>
+  <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript" title="TypeScript" height="50"/>
 </div>
 
-<div align="center">
-<img src="https://www.google.com/search?q=https://github-readme-activity-graph.vercel.app/graph%3Fusername%3DWAPunsisiYemaniPerera%26theme%3Dreact-dark%26bg_color%3D0D1117%26color%3D682AE9%26line%3D682AE9%26point%3DFFFFFF%26area%3Dtrue%26hide_border%3Dtrue%26animation%3Dtrue" alt="Activity Graph"/>
+### Backend Development
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js" title="Node.js" height="50"/>
+  <img src="https://skillicons.dev/icons?i=express" alt="Express" title="Express.js" height="50"/>
 </div>
 
-<!-- Footer Links -->
-
-<h3 align="center">🌐 Connect across the web</h3>
-<div align="center">
-<a href="https://www.kaggle.com/wapyperera">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Kaggle-20BEFF%3Fstyle%3Dfor-the-badge%26logo%3DKaggle%26logoColor%3Dwhite" alt="Kaggle"/>
-</a>
-<a href="https://huggingface.co/Yemani">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/Hugging%2520Face-FFD21E%3Fstyle%3Dfor-the-badge%26logo%3Dhuggingface%26logoColor%3Dblack" alt="Hugging Face"/>
-</a>
+### Databases & Cloud
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL" title="MySQL" height="50"/>
+  <img src="https://skillicons.dev/icons?i=mongodb" alt="MongoDB" title="MongoDB" height="50"/>
+  <img src="https://skillicons.dev/icons?i=firebase" alt="Firebase" title="Firebase" height="50"/>
 </div>
 
+### DevOps & Tools
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=git" alt="Git" title="Git" height="50"/>
+  <img src="https://skillicons.dev/icons?i=figma" alt="Figma" title="Figma" height="50"/>
+  <img src="https://skillicons.dev/icons?i=vscode" alt="VSCode" title="VS Code" height="50"/>
+</div>
+
+### Mobile Development
+<div style="display: flex; justify-content: center; gap: 15px; flex-wrap: wrap;">
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android" title="Android" height="50"/>
+  <img src="https://skillicons.dev/icons?i=flutter" alt="Flutter" title="Flutter" height="50"/>
+</div>
+
+</div>
+
+
+
+<!-- 📊 GitHub Stats -->
+<h2 align="center" style="color: #20C20E; margin-bottom: 20px;">
+  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="40px"> Dynamic GitHub Insights
+</h2>
+
+<div align="center" style="display: flex; flex-direction: column; gap: 20px;">
+
+<!-- Animated Stats Row -->
+<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px;">
+  <!-- Stats Card with hover effect -->
+  <a href="https://github.com/WAPunsisiYemaniPerera" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WAPunsisiYemaniPerera&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true&border_radius=10&border_color=20C20E&hide_border=true&bg_color=00000000"/>
+  </a>
+  
+  <!-- Top Languages with hover effect -->
+  <a href="https://github.com/WAPunsisiYemaniPerera" style="text-decoration: none; transition: transform 0.3s;" onmouseover="this.style.transform='scale(1.03)'" onmouseout="this.style.transform='scale(1)'">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WAPunsisiYemaniPerera&layout=compact&langs_count=8&theme=nightowl&border_radius=10&border_color=20C20E&hide_border=true&bg_color=00000000"/>
+  </a>
+</div>
+
+<!-- Streak Stats with animation -->
 <div align="center">
-<img src="
+  <a href="https://github.com/WAPunsisiYemaniPerera">
+    <img src="https://streak-stats.demolab.com?user=WAPunsisiYemaniPerera&theme=nightowl&border_radius=10&border=20C20E&ring=20C20E&fire=20C20E&currStreakNum=20C20E&sideNums=20C20E&dates=20C20E&animation=fadeIn" alt="GitHub Streak"/>
+  </a>
+</div>
+
+<!-- Animated Activity Graph -->
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=WAPunsisiYemaniPerera&theme=react-dark&bg_color=0D1117&color=20C20E&line=20C20E&point=20C20E&area=true&hide_border=true&custom_title=My%20Contribution%20Graph&animation=true" alt="Activity Graph"/>
+</div>
+
+<!-- View Counter with pulse animation -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=WAPunsisiYemaniPerera&label=Profile+Views&color=20C20E&style=flat&animation=pulse" alt="profile views"/>
+</div>
+
+</div>
+
+
+
+
+<!-- 🌐 Connect With Me -->
+<h2 align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Let's Connect & Collaborate!
+</h2>
+
+<div align="center" style="margin: 20px 0;">
+  <!-- LinkedIn -->
+  <a href="https://linkedin.com/in/yemani-perera-09b4b8211" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn" width="40" height="40"/>
+  </a>
+  
+  <!-- Gmail -->
+  <a href="mailto:punsisiyemani18@gmail.com" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="Gmail" width="40" height="40"/>
+  </a>
+  
+  <!-- Instagram -->
+  <a href="https://instagram.com/yemaa_perera" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/instagram-new--v1.png" alt="Instagram" width="40" height="40"/>
+  </a>
+  
+  <!-- Medium -->
+  <a href="https://medium.com/@punsisiyemani18" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/medium-logo.png" alt="Medium" width="40" height="40"/>
+  </a>
+  
+  <!-- Buy Me a Coffee -->
+  <a href="https://buymeacoffee.com/punsisiyemz" target="_blank">
+    <img src="https://img.icons8.com/color/48/000000/cafe.png" alt="Buy Me A Coffee" width="40" height="40"/>
+  </a>
+</div>
+
+<p align="center">
+  <em>Feel free to reach out for collaborations or just a friendly hello! 👋</em>
+</p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=20C20E&style=flat" alt="profile views" />
+</div>
+
+<!-- Footer -->
+<div align="center">
+  
+[![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FWAPunsisiYemaniPerera&label=Visitors&countColor=%2320C20E&style=flat-square)](https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2FWAPunsisiYemaniPerera)
+
+</div>
